@@ -2,7 +2,7 @@
  
 Women face significant obstacles in accessing reproductive health services, including limited healthcare availability, financial constraints, and insufficient education on reproductive issues. Cultural stigma, legal restrictions, mental health challenges, and language barriers further deter them from seeking care. Additionally, a lack of support networks and prevalent misinformation hinder women's ability to make informed choices and negatively impact their autonomy and well-being.
 
-To address these needs, a technology solution that integrates health resources, privacy-protected forums, telehealth, financial tools, and legal rights information could empower women to make informed decisions, protect their rights, and foster well-being.
+To address these needs, a technology solution called **CareNest** that integrates health resources, privacy-protected forums, telehealth, financial tools, and legal rights information could empower women to make informed decisions, protect their rights, and foster well-being.
 
 ## **Key Features**
 
