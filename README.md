@@ -16,5 +16,5 @@ To address these needs, a technology solution that integrates health resources, 
 
 **Legal Rights Information**: Stay informed about work legal rights and protections regarding reproductive health, helping women navigate their choices confidently.
 
-Support and Safe Space: Engage in confidential discussions with peers and experts, ensuring a safe space to share experiences and seek advice.
+**Support and Safe Space**: Engage in confidential discussions with peers and experts, ensuring a safe space to share experiences and seek advice.
 
